@@ -1,0 +1,27 @@
+{
+  "activation": "relu",
+  "architecture": [
+    784,
+    10,
+    10
+  ],
+  "seed": 42,
+  "epochs": 100,
+  "learning_rate": 0.1,
+  "optimizer": "Full-batch gradient descent with momentum",
+  "momentum": 1.0,
+  "dampening": 0.0,
+  "weight_decay": 0.0,
+  "nesterov": false,
+  "batch_size": 500,
+  "loss_function": "CrossEntropyLoss",
+  "metric_timing": "After each epoch update",
+  "accuracy_unit": "Fraction between 0 and 1",
+  "train_samples": 500,
+  "test_samples": 500,
+  "final_train_loss": 0.0008161137229762971,
+  "final_train_accuracy": 1.0,
+  "test_loss": 15.146896362304688,
+  "test_accuracy": 0.8019999861717224,
+  "torch_version": "2.14.1+cpu"
+}

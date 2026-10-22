@@ -1,0 +1,4 @@
+﻿momentum,learning_rate,train_loss,train_accuracy_percent,test_loss,test_accuracy_percent,accuracy_gap_percentage_points,first_epoch_train_accuracy_95_percent,first_epoch_train_accuracy_100_percent,training_loss_increase_steps
+0.500000,0.100000,0.260459,96.200001,0.480818,85.799998,10.400003,84,Not reached,0
+0.900000,0.100000,0.020410,100.000000,0.650637,84.600002,15.399998,39,71,0
+1.000000,0.100000,0.000816,100.000000,15.146896,80.199999,19.800001,41,79,24
